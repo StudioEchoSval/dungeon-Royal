@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeon royale", "Dungeon royale.csproj", "{9861AC9A-3FB2-5948-153A-2606CBFA8CE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeon royale.Editor", "Dungeon royale.Editor.csproj", "{AA3254C1-19E3-98F7-854C-CAF42A55EF12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeon royale.Editor", "Dungeon royale.Editor.csproj", "{AA3254C1-19E3-98F7-854C-CAF42A55EF12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeon royale.Editor", "Dungeon royale.Editor.csproj", "{AA3254C1-19E3-98F7-854C-CAF42A55EF12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9861AC9A-3FB2-5948-153A-2606CBFA8CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9861AC9A-3FB2-5948-153A-2606CBFA8CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9861AC9A-3FB2-5948-153A-2606CBFA8CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9861AC9A-3FB2-5948-153A-2606CBFA8CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3254C1-19E3-98F7-854C-CAF42A55EF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3254C1-19E3-98F7-854C-CAF42A55EF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3254C1-19E3-98F7-854C-CAF42A55EF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3254C1-19E3-98F7-854C-CAF42A55EF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3254C1-19E3-98F7-854C-CAF42A55EF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3254C1-19E3-98F7-854C-CAF42A55EF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3254C1-19E3-98F7-854C-CAF42A55EF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3254C1-19E3-98F7-854C-CAF42A55EF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3254C1-19E3-98F7-854C-CAF42A55EF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3254C1-19E3-98F7-854C-CAF42A55EF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3254C1-19E3-98F7-854C-CAF42A55EF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3254C1-19E3-98F7-854C-CAF42A55EF12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
