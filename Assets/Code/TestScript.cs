@@ -18,4 +18,9 @@ public class TestScript : MonoBehaviour {
     {
 
     }
+
+    void addpush()
+    {
+
+    }
 }
