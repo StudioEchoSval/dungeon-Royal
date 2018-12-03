@@ -13,4 +13,9 @@ public class TestScript : MonoBehaviour {
 	void Update () {
 		
 	}
+
+    void bonjour()
+    {
+
+    }
 }
