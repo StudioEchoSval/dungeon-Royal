@@ -53,20 +53,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AutreNouveauTestYock.cs" />
      <Compile Include="Assets\Code\TestScript.cs" />
      <Compile Include="Assets\Code\TestYock.cs" />
-     <Compile Include="Assets\NouveauTestYock.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/admin/Documents/GitHub/dungeon-Royal/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/admin/Documents/dungeon-Royal/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/admin/Documents/GitHub/dungeon-Royal/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/admin/Documents/dungeon-Royal/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/admin/Documents/GitHub/dungeon-Royal/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/admin/Documents/dungeon-Royal/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/admin/Documents/GitHub/dungeon-Royal/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/admin/Documents/dungeon-Royal/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>E:/Unity2018/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
