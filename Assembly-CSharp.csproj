@@ -56,6 +56,10 @@
      <Compile Include="Assets\AutreNouveauTestYock.cs" />
      <Compile Include="Assets\Code\TestScript.cs" />
      <Compile Include="Assets\Code\TestYock.cs" />
+     <Compile Include="Assets\Scripts\LevelManager.cs" />
+     <Compile Include="Assets\Scripts\MusicManager.cs" />
+     <Compile Include="Assets\Scripts\OptionsController.cs" />
+     <Compile Include="Assets\Scripts\PlayerPrefsManager.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/admin/Documents/dungeon-Royal/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
