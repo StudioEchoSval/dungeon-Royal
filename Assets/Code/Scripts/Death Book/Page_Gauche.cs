@@ -2,25 +2,23 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TestScript : MonoBehaviour {
+public class Page_Gauche : MonoBehaviour
+{
 
 	// Use this for initialization
-	void Start () {
+	void Start ()
+    {
 		
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update ()
+    {
 		
 	}
 
-    void bonjour()
+    public void Page_Gauche_tourner()
     {
-
-    }
-
-    void addpush()
-    {
-
+        Debug.Log("Page gauche");
     }
 }
