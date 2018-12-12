@@ -53,13 +53,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\AutreNouveauTestYock.cs" />
-     <Compile Include="Assets\Code\TestScript.cs" />
-     <Compile Include="Assets\Code\TestYock.cs" />
-     <Compile Include="Assets\Scripts\LevelManager.cs" />
-     <Compile Include="Assets\Scripts\MusicManager.cs" />
-     <Compile Include="Assets\Scripts\OptionsController.cs" />
-     <Compile Include="Assets\Scripts\PlayerPrefsManager.cs" />
+     <Compile Include="Assets\Code\Scripts\Death Book\Open_Book.cs" />
+     <Compile Include="Assets\Code\Scripts\Death Book\Page_Droite.cs" />
+     <Compile Include="Assets\Code\Scripts\Death Book\Page_Gauche.cs" />
+     <Compile Include="Assets\Code\Scripts\LevelManager.cs" />
+     <Compile Include="Assets\Code\Scripts\MusicManager.cs" />
+     <Compile Include="Assets\Code\Scripts\OptionsController.cs" />
+     <Compile Include="Assets\Code\Scripts\PlayerPrefsManager.cs" />
+     <Compile Include="Assets\Code\Scripts\Pouvoirs\Pouvoirs.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/admin/Documents/dungeon-Royal/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
