@@ -5,7 +5,6 @@ public class LevelManager : MonoBehaviour {
 
 
 	public float autoLoadNextLevelAfter;
-		
 
 	void Start (){
 		if (autoLoadNextLevelAfter <= 0){
@@ -32,5 +31,5 @@ public class LevelManager : MonoBehaviour {
 	public void LoadNextLevel(){
 		Application.LoadLevel(Application.loadedLevel + 1);
 	}
-	
+
 }

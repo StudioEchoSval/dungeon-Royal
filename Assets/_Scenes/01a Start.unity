@@ -281,7 +281,6 @@ GameObject:
   - component: {fileID: 1245518498}
   - component: {fileID: 1245518497}
   - component: {fileID: 1245518496}
-  - component: {fileID: 1245518495}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -289,13 +288,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &1245518495
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1245518494}
-  m_Enabled: 1
 --- !u!124 &1245518496
 Behaviour:
   m_ObjectHideFlags: 0
@@ -1078,6 +1070,10 @@ Prefab:
       value: 'Start
 
 '
+      objectReference: {fileID: 0}
+    - target: {fileID: 11481090, guid: b723b855919d43a4bbe39a77e24d5edb, type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: 01b Choix Perso
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b723b855919d43a4bbe39a77e24d5edb, type: 2}
