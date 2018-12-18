@@ -53,6 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Code\Scripts\ChoixPerso\MoveCamera.cs" />
      <Compile Include="Assets\Code\Scripts\Death Book\Open_Book.cs" />
      <Compile Include="Assets\Code\Scripts\Death Book\Page_Droite.cs" />
      <Compile Include="Assets\Code\Scripts\Death Book\Page_Gauche.cs" />

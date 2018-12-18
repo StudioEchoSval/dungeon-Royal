@@ -9,7 +9,7 @@ public class MoveCamera : MonoBehaviour {
         Vector3 position = this.transform.position;
         //Debug.Log(this.transform.position);
 
-        if (this.transform.position.x == 15)
+        if (this.transform.position.x == 20)
             position.x = 0;
         else 
             position.x += 5;
