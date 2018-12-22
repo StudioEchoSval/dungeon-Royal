@@ -4,17 +4,17 @@ using UnityEngine;
 
 public class MoveCamera : MonoBehaviour {
 
+
+    public float posPerso;
+    public Camera camera;
+
     public void ChoixPerso()
     {
-        Vector3 position = this.transform.position;
-        //Debug.Log(this.transform.position);
-
-        if (this.transform.position.x == 20)
-            position.x = 0;
-        else 
-            position.x += 5;
-
-        transform.position = position;
+        Vector3 position = camera.transform.position;
+        
+        position.x = posPerso;
+        
+        camera.transform.position = position;
     }
 
 

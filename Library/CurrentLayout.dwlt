@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 9
+  controlID: 95
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 10
+  controlID: 96
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 57
+  controlID: 97
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -254,8 +254,8 @@ MonoBehaviour:
     y: 0
     width: 389
     height: 947
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -367,23 +367,23 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 660b0000
+    m_SelectedIDs: e20a0000
     m_LastClickedID: 0
-    m_ExpandedIDs: 9c62feffde63feffd070feffe6fbffff00000000
+    m_ExpandedIDs: e6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: UNDEAD
-      m_OriginalName: UNDEAD
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -65156
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
@@ -534,20 +534,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/_Scenes
+    - Assets/HEROIC FANTASY CREATURES FULL PACK/LIVING DEAD PACK/UNDEAD/FBX FILES
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/_Scenes
+  - Assets/HEROIC FANTASY CREATURES FULL PACK/LIVING DEAD PACK/UNDEAD/FBX FILES
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\admin\Documents\dungeon-Royal
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 88090000
-    m_LastClickedID: 2440
-    m_ExpandedIDs: 00000000600900007e090000380a00003e0a0000ba0a0000f60b0000020c0000080c0000042f0000062f0000082f00000a2f00000c2f00000e2f0000102f0000ee30000010310000123100001a3100003031000032310000343100003631000000ca9a3b
+    scrollPos: {x: 0, y: 23}
+    m_SelectedIDs: f20b0000
+    m_LastClickedID: 3058
+    m_ExpandedIDs: 000000006209000080090000820900000e0a0000200a0000b20a0000c60b00007a0c0000920c0000be0c0000060d0000200d0000280d0000300d0000360d0000560d0000d6350000d8350000da350000dc350000de350000e0350000e2350000e4350000e635000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -575,7 +575,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000600900003e0a0000ba0a0000a40b0000f60b0000020c0000080c0000042f0000062f0000082f00000a2f00000c2f00000e2f0000102f0000
+    m_ExpandedIDs: 000000006209000080090000820900000e0a0000ac0a0000b20a0000c60b00007a0c0000920c0000060d0000200d0000300d0000360d0000560d0000d6350000d8350000da350000dc350000de350000e0350000e2350000e4350000e6350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
