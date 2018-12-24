@@ -1073,7 +1073,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11481090, guid: b723b855919d43a4bbe39a77e24d5edb, type: 2}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 01b Choix Perso
+      value: 01c Choix Perso
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b723b855919d43a4bbe39a77e24d5edb, type: 2}
