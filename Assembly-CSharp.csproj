@@ -53,6 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ChoixDuPerso.cs" />
      <Compile Include="Assets\Code\Scripts\CamRotator.cs" />
      <Compile Include="Assets\Code\Scripts\Death Book\Open_Book.cs" />
      <Compile Include="Assets\Code\Scripts\Death Book\Page_Droite.cs" />
@@ -62,6 +63,8 @@
      <Compile Include="Assets\Code\Scripts\OptionsController.cs" />
      <Compile Include="Assets\Code\Scripts\PlayerPrefsManager.cs" />
      <Compile Include="Assets\Code\Scripts\Pouvoirs\Pouvoirs.cs" />
+     <Compile Include="Assets\FicheDePerso.cs" />
+     <Compile Include="Assets\SoundPosition.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/admin/Documents/dungeon-Royal/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>

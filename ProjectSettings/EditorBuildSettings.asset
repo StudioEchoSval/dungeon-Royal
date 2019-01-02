@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/_Scenes/01b Options.unity
     guid: 3e5bdce2faefa11459cb2edf3d541f3a
   - enabled: 1
-    path: Assets/_Scenes/01b Choix Perso.unity
+    path: Assets/_Scenes/01c Choix Perso.unity
     guid: 5fef101bc8806fe4bac054b9d95012ff
   - enabled: 1
     path: Assets/_Scenes/02 Level_01.unity
